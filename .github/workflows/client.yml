@@ -33,3 +33,5 @@ jobs:
             build s3://fe-54-serin-b \
             --delete
         working-directory: ./my-agora-states-client
+
+        
